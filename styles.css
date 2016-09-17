@@ -10,6 +10,7 @@ body {
     margin-top: 200px;
     color: white;
     text-align: center;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
 .headline h1 {
