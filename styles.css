@@ -8,6 +8,10 @@ body {
     color: white;
 }
 
+html {
+    height: 100%;
+}
+
 .headline {
     margin-top: 200px;
     text-align: center;
