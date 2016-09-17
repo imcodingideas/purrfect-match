@@ -5,17 +5,18 @@ body {
     -o-background-size: cover;
     background-size: cover;
     font-family: Lato;
+    color: white;
 }
 
 .headline {
     margin-top: 200px;
-    color: white;
     text-align: center;
     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 
 .headline h1 {
-    font-size: 4.5em;
+    font-weight: 700;
+    font-size: 5em;
 }
 
 .headline p {
