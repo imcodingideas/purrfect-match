@@ -5,3 +5,21 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+.headline {
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+}
+
+.headline h1 {
+    font-size: 4.5em;
+}
+
+.headline p {
+    font-size: 1.75em;
+}
+
+hr {
+    width: 75%;
+}
